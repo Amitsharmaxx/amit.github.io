@@ -5,7 +5,7 @@
 I am a **Backend Developer specializing in Java and Spring Boot**, focused on building scalable backend systems and REST APIs.
 I enjoy solving backend problems, optimizing databases, and building real-world projects.
 
----
+--- 
 
 # About Me
 
