@@ -87,24 +87,14 @@ I enjoy solving backend problems, optimizing databases, and building real-world 
 
 # Coding Profiles
 
-* 💻 GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-* 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🧠 LeetCode: [https://leetcode.com/yourusername](https://leetcode.com/yourusername)
+* 💻 GitHub: [https://github.com/yourusername](https://github.com/Amitsharmaxx)
+* 🔗 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/amitsharmax/)
+* 🧠 LeetCode: [https://leetcode.com/yourusername](https://leetcode.com/u/amitSharmx/)
 
----
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact)
-
----
 
 # Contact
 
 📧 Email: [amit.sharmx@gmail.com](mailto:amit.sharmx@gmail.com)
-📱 Phone: +91-9643271081
 
----
 
