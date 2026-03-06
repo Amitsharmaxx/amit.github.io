@@ -6,7 +6,7 @@ I am a **Backend Developer specializing in Java and Spring Boot**, focused on bu
 I enjoy solving backend problems, optimizing databases, and building real-world projects.
 
 --- 
-
+ 
 # About Me
 
 * 🎓 B.Tech in Computer Science
