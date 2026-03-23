@@ -53,7 +53,7 @@ I enjoy solving backend problems, optimizing databases, and building real-world 
 - Implemented product listing, transactions, and user workflows  
 - Handled **100+ simulated transactions**  
 - Tech: **Java, Spring Boot, MySQL**  
-- 🔗 GitHub: https://github.com/yourprojectlink  
+- 🔗 GitHub: [https://github.com/yourprojectlink  ](https://github.com/Amitsharmaxx/Cashify_Clone-Ecommerce-web-)
 
 ---
 
@@ -62,7 +62,7 @@ I enjoy solving backend problems, optimizing databases, and building real-world 
 - Integrated AI APIs to generate automated email replies  
 - Reduced manual effort by **70%**  
 - Tech: **Spring Boot, REST API**  
-- 🔗 GitHub: https://github.com/yourprojectlink  
+- 🔗 GitHub: [https://github.com/yourprojectlink  ](https://github.com/Amitsharmaxx/AI-Email-Reply-Generator-SpringBoot)
 
 ---
 
